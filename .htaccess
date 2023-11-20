@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+
+# Membuat halaman khusus yang berisi pesan kesalahan 
+ErrorDocument 404 http://localhost/iStudio/Project-PHP/PHP-Native-MySQLi/aplikasi-persediaan-barang-gudang-material-dengan-PHP8-dan-MySQLi/404.html
+ErrorDocument 403 http://localhost/iStudio/Project-PHP/PHP-Native-MySQLi/aplikasi-persediaan-barang-gudang-material-dengan-PHP8-dan-MySQLi/403.html
+
+# Memproteksi direktori pada aplikasi 
+Options All -Indexes
+</IfModule>

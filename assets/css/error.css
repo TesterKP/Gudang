@@ -1,0 +1,21 @@
+/*     	error-page     */
+.error-page {
+  background: #f4f6f9 !important;
+}
+
+.error-page .wrapper.wrapper-error-page {
+  padding-top: 5rem;
+}
+
+.error-page .wrapper.wrapper-error-page h1 {
+  font-size: 8rem;
+  font-weight: 700;
+  text-align: center;
+  line-height: 1;
+}
+
+.error-page .wrapper.wrapper-error-page h3 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  text-align: center;
+}

@@ -1,0 +1,19 @@
+PETUNJUK PENGGUNAAN
+
+1. Install XAMPP 7.1.30 Download disini https://drive.google.com/drive/folders/1BDXw8ZSuRwctD3tEyGrzoxPnUPcFkWRo?usp=share_link
+2. Setelah XAMPP terinstall, klik start Apache dan Mysql, kemudian copy folder gudang dan paste ke folder c:\xampp\htdocs (direktori XAMPP)
+3. Kemudian masuk ke phpMyAdmin, buat database baru dengan nama gudang
+4. Import gudang.sql yang ada difolder Database ke dalam database yang telah dibuat
+5. Untuk membuka program ketikan localhost/gudang pada browser
+6. Login user :
+Hak Akses 	: Administrator
+Username 	: administrator
+Password 	: 123
+
+Hak Akses 	: Admin Gudang
+Username 	: admin gudang
+Password 	: 123
+
+Hak Akses 	: Kepala Gudang
+Username 	: kepala gudang
+Password 	: 123
